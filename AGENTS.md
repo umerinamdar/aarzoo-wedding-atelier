@@ -8,3 +8,7 @@
 > Commits you push to the connected branch sync back to Lovable and show up in
 > the editor, so keep the branch in a working state.
 <!-- LOVABLE:END -->
+
+# AGENTS.md
+
+- This project is an asset-generation sandbox for Aarzoo theme artwork; keep the app a single blank page — the deliverables are the generated images, not app features.
